@@ -1,0 +1,32 @@
+body {
+  width: 80%;
+  font-family: 'Source Sans Pro', sans-serif;
+  border: 20px #bdc3c7 solid;
+  margin: 20px auto;
+}
+
+h2 {
+  color: #3498db;
+  letter-spacing: 0.1em;
+}
+
+.blog {
+  padding: 0px 20px;
+}
+
+.blogDate {
+  font-size: 1.25em;
+  color: #3498db;
+  margin: 10px 0px;
+  text-orientation: sideways;
+}
+
+.blogTitle {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.blogFirstParagraph {
+  border-left: 5px #bdc3c7 solid;
+  padding-left: 5px;
+}
